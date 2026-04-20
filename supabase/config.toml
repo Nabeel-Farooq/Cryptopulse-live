@@ -1,0 +1,4 @@
+project_id = "lsdaejjrvafrsotejekx"
+
+[functions.predict-coin]
+verify_jwt = false
